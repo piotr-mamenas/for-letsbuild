@@ -1,0 +1,10 @@
+D:\Project\for-letsbuild\Test\Test\bin\Release\netcoreapp2.2\Test.deps.json
+D:\Project\for-letsbuild\Test\Test\bin\Release\netcoreapp2.2\Test.runtimeconfig.json
+D:\Project\for-letsbuild\Test\Test\bin\Release\netcoreapp2.2\Test.runtimeconfig.dev.json
+D:\Project\for-letsbuild\Test\Test\bin\Release\netcoreapp2.2\Test.dll
+D:\Project\for-letsbuild\Test\Test\bin\Release\netcoreapp2.2\Test.pdb
+D:\Project\for-letsbuild\Test\Test\obj\Release\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+D:\Project\for-letsbuild\Test\Test\obj\Release\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+D:\Project\for-letsbuild\Test\Test\obj\Release\netcoreapp2.2\Test.AssemblyInfo.cs
+D:\Project\for-letsbuild\Test\Test\obj\Release\netcoreapp2.2\Test.dll
+D:\Project\for-letsbuild\Test\Test\obj\Release\netcoreapp2.2\Test.pdb
